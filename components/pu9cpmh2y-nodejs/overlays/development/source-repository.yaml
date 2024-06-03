@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pu9cpmh2y-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pu9cpmh2y-nodejs
